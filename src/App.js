@@ -3,7 +3,7 @@ import './App.css';
 
 function App() {
     return (
-        <div className="App">
+        <div className="appreact">
             <header>header</header>
             <main>main
                 <div>main div</div>
@@ -11,7 +11,7 @@ function App() {
             </main>
             <p><span>12334</span>sd</p>
             <div>kdjekjde</div>
-            <footer>footer</footer>
+            <footer>footer with conflicts</footer>
         </div>
     );
 }
