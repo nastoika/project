@@ -6,7 +6,6 @@ function App() {
         <div className="appreact">
             <header>header</header>
             <main>main</main>
-            <p>sd</p>
             <div>kdjekjde</div>
             <footer>footer with conflicts</footer>
         </div>
