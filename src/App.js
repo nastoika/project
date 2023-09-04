@@ -5,9 +5,13 @@ function App() {
     return (
         <div className="App">
             <header>header</header>
-            <main>main</main>
-            <p>sd</p>
+            <main>main
+                <div>main div</div>
+                <div>icon</div>
+            </main>
+            <p><span>12334</span>sd</p>
             <div>kdjekjde</div>
+            <footer>footer</footer>
         </div>
     );
 }
