@@ -10,6 +10,7 @@ function App() {
             </main>
             <p>sd</p>
             <div>kdjekjde</div>
+            <footer>footer</footer>
         </div>
     );
 }
