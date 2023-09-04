@@ -8,6 +8,7 @@ function App() {
             <main>main</main>
             <p>sd</p>
             <div>kdjekjde</div>
+            <footer>footer with conflicts</footer>
         </div>
     );
 }
