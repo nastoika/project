@@ -6,7 +6,8 @@ function App() {
         <div className="App">
             <header>header</header>
             <main>main
-            <div>main div</div>
+                <div>main div</div>
+                <div>icon</div>
             </main>
             <p><span>12334</span>sd</p>
             <div>kdjekjde</div>
